@@ -34,7 +34,7 @@ not theory, not tutorials, not certificates.
 
 - ECAPA-TDNN-VHE (Vocal Health Encoder with 2.5x performance over baseline ECAPA-TDNN) [HuggingFace](https://huggingface.co/Khubaib01/ECAPA-TDNN-VHE)
 - Roman Urdu Emotion Classifier (Current State of the Art) [HuggingFace](https://huggingface.co/Khubaib01/roman-urdu-emotion-xlmr-v2)
-- Roman Urdu Sentiment Classifier (Current State of the Art) (HuggingFace)(https://huggingface.co/Khubaib01/roman-urdu-sentiment-xlmr)
+- Roman Urdu Sentiment Classifier (Current State of the Art) [HuggingFace](https://huggingface.co/Khubaib01/roman-urdu-sentiment-xlmr)
 
 ## Lab Founder
 [Muhammad Khubaib Ahmad](https://www.linkedin.com/in/muhammad-khubaib-ahmad-) —
