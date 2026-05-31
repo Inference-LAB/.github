@@ -19,7 +19,7 @@ not theory, not tutorials, not certificates.
  
   - RUDaSA: Roman Urdu Dataset for Sentiment Analysis — A Large-Scale, Curated Corpus with Privacy-Preserving Embeddings and Competitive Benchmarking of Transformer Models. [Read here](https://doi.org/10.21203/rs.3.rs-9827763/v1)
   
-  - RUEmoCorp: A Large-Scale Roman Urdu Emotion Corpus with Cross-Institute Annotation Validation and State-of-the-Art Emotion Classification. (Read here)[https://doi.org/10.21203/rs.3.rs-9759243/v1]
+  - RUEmoCorp: A Large-Scale Roman Urdu Emotion Corpus with Cross-Institute Annotation Validation and State-of-the-Art Emotion Classification. [Read here](https://doi.org/10.21203/rs.3.rs-9759243/v1)
 
 
 - Speech AI
