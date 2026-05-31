@@ -15,13 +15,15 @@ not theory, not tutorials, not certificates.
 ## Research
 
 - Low Resource NLP
-  - Data-Centric Roman Urdu NLP: High-Quality Dataset Curation, Privacy-Preserving Embeddings, and State-of-the-Art Model Benchmarking. [Click here](https://doi.org/10.5281/zenodo.18080524)
+  - Data-Centric Roman Urdu NLP: High-Quality Dataset Curation, Privacy-Preserving Embeddings, and State-of-the-Art Model Benchmarking. [Read here](https://doi.org/10.5281/zenodo.18080524)
+ 
+  - RUDaSA: Roman Urdu Dataset for Sentiment Analysis — A Large-Scale, Curated Corpus with Privacy-Preserving Embeddings and Competitive Benchmarking of Transformer Models. [Read here](https://doi.org/10.21203/rs.3.rs-9827763/v1)
   
-  - RUEmoCorp: A Large-Scale Roman Urdu Emotion Corpus with Cross-Institute Annotation Validation and State-of-the-Art Emotion Classification. (Under Progress)
+  - RUEmoCorp: A Large-Scale Roman Urdu Emotion Corpus with Cross-Institute Annotation Validation and State-of-the-Art Emotion Classification. (Read here)[https://doi.org/10.21203/rs.3.rs-9759243/v1]
 
 
 - Speech AI
-  - Modeling Vocal Fatigue as Embedding-Space Deviation Using Contrastively Trained ECAPA-TDNNs. [Click here](https://doi.org/10.5281/zenodo.18366305)
+  - Modeling Vocal Fatigue as Embedding-Space Deviation Using Contrastively Trained ECAPA-TDNNs. [Click here](https://doi.org/10.5281/zenodo.18366305)  
   - Continuous Vocal Load Monitoring in Professional Voice Users: Development and Occupational Validation of an Automated Assessment System. (Under Review at Journal of Voice)
 
 ## Datasets
