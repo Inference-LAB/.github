@@ -23,7 +23,8 @@ not theory, not tutorials, not certificates.
 
 
 - Speech AI
-  - Modeling Vocal Fatigue as Embedding-Space Deviation Using Contrastively Trained ECAPA-TDNNs. [Click here](https://doi.org/10.5281/zenodo.18366305)  
+  - Modeling Vocal Fatigue as Embedding-Space Deviation Using Contrastively Trained ECAPA-TDNNs. [Click here](https://doi.org/10.5281/zenodo.18366305)
+
   - Continuous Vocal Load Monitoring in Professional Voice Users: Development and Occupational Validation of an Automated Assessment System. (Under Review at Journal of Voice)
 
 ## Datasets
