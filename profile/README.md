@@ -1,4 +1,4 @@
-# INFERENCE LAB
+# [INFERENCE Lab](https://www.inference-lab.org)
 
 Applied AI engineering lab based in Multan, Pakistan.
 
